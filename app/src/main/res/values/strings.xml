@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">app</string>
+    <string name="not_enough_symbols_msg">Please enter at least one symbol</string>
+    <string name="loading_error_msg">Error during loading info</string>
+
+</resources>
